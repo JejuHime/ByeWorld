@@ -1,20 +1,19 @@
-# ByeWorld
-First project
-Hello, World. It annoys me that no one includes a comma there. Anyway, I'm an English teacher hoping and praying and studying to become a web dev, probably front end as I find Javascript interesting enough to dive deep into it. But who knows. I'm currently taking a JS course, and I need to figure out what my next move will be. I am happy to be here and I am counting the days until I can quit teaching and get my first web dev opportunity! #blackgirlscode
-<<<<<<< HEAD
+OMG IT'S BACK!
 
-<<<<<<< HEAD
-Edit #1
+So I think I made a branch or something when I checkedout this commit, so this file, which was deleted in the commit after, has reappeared. That's crazy. CRAZY.
+The instructions read:
 
-Edit #2
 
-Edit #3
-=======
->>>>>>> parent of 2b17525... first edit
+Note: checking out '9e6881f'.
 
-Edit #4
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
 
-Edit #5
-=======
-Edit #1
->>>>>>> parent of 23b3c88... second edit
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 9e6881f edit #2 four
+
